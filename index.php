@@ -38,7 +38,7 @@ este seria el test del test_merge_1
          directionsDisplay.setDirections(response);
        }
      });
-   </script>
-   esto seria una prueba de conflicto 3 otro test
+   </script> 
+   esto seria una prueba de conflicto otra prueba con otro programa para manejo de git
 </body> 
 </html>
