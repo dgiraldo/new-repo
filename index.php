@@ -39,6 +39,6 @@ este seria el test del test_merge_1
        }
      });
    </script>
-   esto seria una prueba de conflicto 3
+   esto seria una prueba de conflicto 3 otro test
 </body> 
 </html>
