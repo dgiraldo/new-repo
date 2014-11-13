@@ -40,4 +40,5 @@ este seria el test del test_merge_1
      });
    </script> 
 </body> 
+este seria el merge del test_2
 </html>
