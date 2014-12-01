@@ -17,6 +17,6 @@ $zip_array = [28239 => 'Gulf Coast Self Storage',
 if(array_key_exists($_REQUEST['zip'], $zip_array)){
 	echo $zip_array[$_REQUEST['zip']];
 }else{
-	echo "Is not a valid zip";
+	echo "Is not a valid zipiiiii";
 }
 ?>
